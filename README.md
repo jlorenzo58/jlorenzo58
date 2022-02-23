@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**jlorenzo58/jlorenzo58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I'm Justin
 
-Here are some ideas to get you started:
+## ABOUT ME
+- 👨‍💻 Fronend Developer
+- 🎸 Guitarist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=jlorenzo58&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jlorenzo58&theme=radical"/>|
+|---|---|
+
+## PROGRAMMING LANGUAGES AND TOOLS
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlorenzo58&theme=radical&title_color=8E2DE2&text_color=fff)
+
+## CONNECT
+<a href="https://www.linkedin.com/in/justin-lorenzo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jlorenzo58/" height="30" width="40" /></a>
+ 
