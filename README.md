@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Justin
 
 ## ABOUT ME
-- 👨‍💻 Fronend Developer
+- 👨‍💻 Frontend Developer
 - 🎸 Guitarist
 
 ## GIT STATS
