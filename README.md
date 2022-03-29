@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Justin
 
 ## ABOUT ME
-- 👨‍💻 Frontend Developer
+- 🎓 College of Staten Island 
+- 👨‍💻 Fullstack Developer
 - 🎸 Guitarist
 
 ## GIT STATS
