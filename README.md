@@ -5,8 +5,7 @@
 - 🎸 Guitarist
 
 ## GIT STATS
-<img src="https://github-readme-stats.vercel.app/api?username=jlorenzo58&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jlorenzo58&theme=radical"/>|
-|---|---|
+<img src="https://github-readme-stats.vercel.app/api?username=jlorenzo58&&show_icons=true&count_private=true&theme=radical"/>
 
 ## PROGRAMMING LANGUAGES AND TOOLS
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlorenzo58&theme=radical&title_color=8E2DE2&text_color=fff)
