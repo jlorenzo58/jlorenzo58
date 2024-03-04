@@ -3,7 +3,6 @@
 ## ABOUT ME
 - 🎓 College of Staten Island 
 - 👨‍💻 Fullstack Developer
-- 🎸 Guitarist
 
 ## PROGRAMMING LANGUAGES AND TOOLS
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlorenzo58&theme=radical&title_color=8E2DE2&text_color=fff)
